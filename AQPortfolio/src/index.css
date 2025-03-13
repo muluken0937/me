@@ -6,7 +6,6 @@
 body {
   @apply bg-darkBrown;
 }
-/* Clip the image to a hexagonal shape */
 .clip-hexagon-bottom {
   clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
 }
