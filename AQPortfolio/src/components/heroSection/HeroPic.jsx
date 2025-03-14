@@ -20,7 +20,7 @@ const HeroPic = () => {
         <img
           src="../../public/images/mee.png"
           alt="Muluken"
-          className="w-auto h-auto md:max-w-[400px] sm:max-w-[380px] clip-hexagon-bottom relative z-10"
+          className="w-auto h-auto md:max-w-[350px] sm:max-w-[320px] clip-hexagon-bottom relative z-10"
         />
       </div>
 
