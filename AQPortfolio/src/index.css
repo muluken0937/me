@@ -18,7 +18,7 @@ body {
 
 /* Background color for the full hexagon */
 .bg-cyan-500 {
-  background: linear-gradient(260deg, #a0e2eecc 100%, #e2f1f8 50%);
+  background: linear-gradient(260deg, #f0b905cc 5%, #64c5d6 100%);
   display: inline-block;
   outline: 4px solid rgba(141, 225, 240, 0.8); 
   outline-offset: -4px; 
