@@ -13,7 +13,7 @@ body {
 .image-cyan-edge {
   background: linear-gradient(260deg, #8de1f0cc 100%, #b8ced8 50%);
   display: inline-block;
-  outline: 4px solid rgba(141, 225, 240, 0.8); /* Cyan edge */
-  outline-offset: -4px; /* Ensures the outline is inside the wrapper */
+  outline: 4px solid rgba(141, 225, 240, 0.8); 
+  outline-offset: -4px; 
   border-radius: 100px;
 }
