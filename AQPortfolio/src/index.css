@@ -14,7 +14,6 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
 }
 
-/* Background color for the full hexagon */
 .bg-cyan-500 {
   background: linear-gradient(260deg, #f0b905cc 5%, #64c5d6 100%);
   display: inline-block;
