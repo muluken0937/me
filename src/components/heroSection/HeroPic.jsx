@@ -8,7 +8,7 @@ const HeroPic = () => {
       variants={fadeIn("left", 0.2)}
       initial="hidden"
       whileInView="show"
-      viewport={{ once: false, amount: 0 }}
+      viewport={{ once: false, amount: 0.3 }}
       className="relative h-full flex items-center justify-center"
     >
       {/* Wrapper for Image with Full Hexagon Background */}
@@ -16,9 +16,9 @@ const HeroPic = () => {
         {/* Full Hexagon Background Color */}
         <div className="absolute inset-0 bg-cyan-500 clip-full-hexagon z-0"></div>
 
-        {/* Image */}
+        {/* Image - Ensure Correct Path */}
         <img
-          src="../../public/images/mee.png"
+          src="/images/mee.png" //
           alt="Muluken"
           className="w-auto h-auto md:max-w-[350px] sm:max-w-[320px] clip-hexagon-bottom relative z-10"
         />
