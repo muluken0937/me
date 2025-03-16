@@ -6,12 +6,10 @@
 body {
   @apply bg-darkBrown;
 }
-/* Clip path for the full hexagon (aligned with the image) */
 .clip-full-hexagon {
   clip-path: polygon(0 20%, 50% 0, 100% 20%, 100% 80%, 50% 100%, 0 80%);
 }
 
-/* Clip path for the bottom hexagon (for the image) */
 .clip-hexagon-bottom {
   clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
 }
