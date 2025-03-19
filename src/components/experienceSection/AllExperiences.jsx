@@ -31,7 +31,6 @@ const experiences = [
     company: "EthixDev",
     date: "2025 - Present",
     responsibilities: [
-      "Working as a Frontend Developer at Ethix Dev.",
       "Building Sebat Tour's website using React.js and Tailwind CSS.",
       "Creating responsive and user-friendly web interfaces.",
       "Collaborating with teams to enhance UI/UX design.",
